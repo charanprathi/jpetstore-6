@@ -33,7 +33,9 @@ Running JPetStore sample under Tomcat (using the [cargo-maven2-plugin](https://c
   ```
 NCDBANMCSAMCNSAM
 SANCSACMSA
-SAC,MSANC.,SAMC
+SAC,MSANC.,SAMCdvaveewvvsvs
+sdbevyubvsiyv
+sdvbysebv
 - Build war file
 
   ```
